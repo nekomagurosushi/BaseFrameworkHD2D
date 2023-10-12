@@ -1,0 +1,12 @@
+{
+  "ModelWork": [
+    {
+      "Name": "enemy",
+      "Path": "Asset/Data/Object/Enemy/enemyRobot.gltf"
+    },
+    {
+      "Name": "normalBullet",
+      "Path": "Asset/Data/Object/Player/bullet.gltf"
+    }
+  ]
+}

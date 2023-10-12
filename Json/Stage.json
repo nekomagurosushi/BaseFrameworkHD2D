@@ -1,0 +1,12 @@
+{
+  "ModelWork": [
+    {
+      "Name": "firstStage",
+      "Path": "Asset/Data/Object/Stage/FirstStage.gltf"
+    },
+    {
+      "Name": "firstStageSkyDome",
+      "Path": "Asset/Data/Object/Stage/testStageSkyDome.gltf"
+    }
+  ]
+}

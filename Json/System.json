@@ -1,0 +1,20 @@
+{
+  "PlaneTex": [
+    {
+      "Name": "Title",
+      "Path": "Asset/Textures/Title.png",
+      "Rect": [ 1280, 720 ],
+      "Pos": [ 0, 0 ],
+      "Size": [ 1, 1 ],
+      "Color": [ 1, 1, 1, 1 ]
+    },
+    {
+      "Name": "StartButton",
+      "Path": "Asset/Textures/TitleStartButton.png",
+      "Rect": [ 1280, 720 ],
+      "Pos": [ 0, 0 ],
+      "Size": [ 1, 1 ],
+      "Color": [1,1,1,1]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "ModelWork": [
+    {
+      "Name": "player",
+      "Path": "Asset/Data/Object/Player/playerRobo.gltf"
+    },
+    {
+      "Name": "normalBullet",
+      "Path": "Asset/Data/Object/Player/bullet.gltf"
+    }
+  ],
+  "PlaneTex": [
+    {
+      "Name": "HpGaugeCover",
+      "Path": "Asset/Data/Object/Player/gaugeCover.png",
+      "Rect": [ 256, 20 ],
+      "Pos": [ -384, -340 ],
+      "Size": [ 2, 1 ],
+      "Color": [ 1, 1, 1, 1 ]
+    },
+    {
+      "Name": "HpGauge",
+      "Path": "Asset/Data/Object/Player/hpGauge.png",
+      "Rect": [ 248, 12 ],
+      "Pos": [ -384, -340 ],
+      "Size": [ 2, 1 ],
+      "Color": [ 1, 1, 1, 1 ]
+    },
+    {
+      "Name": "BoostGaugeCover",
+      "Path": "Asset/Data/Object/Player/gaugeCover.png",
+      "Rect": [ 256, 20 ],
+      "Pos": [ 0, -300 ],
+      "Size": [ 1, 1 ],
+      "Color": [ 1, 1, 1, 1 ]
+    },
+    {
+      "Name": "BoostGauge",
+      "Path": "Asset/Data/Object/Player/boostGauge.png",
+      "Rect": [ 248, 12 ],
+      "Pos": [ 0, -300 ],
+      "Size": [ 1, 1 ],
+      "Color": [ 1, 1, 1, 1 ]
+    },
+    {
+      "Name": "Reticle",
+      "Path": "Asset/Data/Object/Player/reticle.png",
+      "Rect": [ 800, 800 ],
+      "Pos": [ 0, 0 ],
+      "Size": [ 0.2, 0.2 ],
+      "Color": [ 1, 1, 1, 1 ]
+    },
+    {
+      "Name": "NumberLabel",
+      "Path": "Asset/Data/numberLabel.png",
+      "Rect": [ 48, 48 ],
+      "Pos": [ -384, -300 ],
+      "Size": [ 1, 1 ],
+      "Color": [ 1, 1, 1, 1 ]
+    }
+  ]
+}
